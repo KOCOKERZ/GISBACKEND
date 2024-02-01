@@ -9,7 +9,7 @@ import (
 var privatekey = ""
 var publickey = ""
 var encode = ""
-var dbname = "GIS-geojson.GIS-geojson"
+var dbname = "GIS.GIS"
 var collname = "geojson"
 
 func TestGeneratePaseto(t *testing.T) {
