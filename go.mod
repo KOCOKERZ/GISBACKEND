@@ -10,6 +10,7 @@ require (
 
 require (
 	aidanwoods.dev/go-result v0.1.0 // indirect
+	github.com/Befous/BackendGin v1.2.0 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/klauspost/compress v1.17.5 // indirect
 	github.com/montanaflynn/stats v0.7.1 // indirect
